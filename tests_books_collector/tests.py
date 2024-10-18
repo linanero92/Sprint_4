@@ -1,5 +1,4 @@
-from conftests import *
-
+import pytest
 
 class TestBooksCollector:
 
